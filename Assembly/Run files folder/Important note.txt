@@ -1,0 +1,2 @@
+According to the lecturer, it can be assumed that all the received 
+files have an 'as' extension  

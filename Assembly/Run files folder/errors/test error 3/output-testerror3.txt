@@ -1,0 +1,71 @@
+Execution of PreAssembler on the file: testError3.as
+we have successfully completed the process PreAssembler on file: testError3.as
+Started first iteration on the file: testError3...
+Error occurred at line 9: label can't be a reserved word
+Error occurred at line 10: label can't be a reserved word
+Error occurred at line 14: Invalid destination address!
+Error occurred at line 15: Invalid definition of firstOperands name!
+Error occurred at line 16: Invalid destination address!
+Error occurred at line 17: Invalid source address!
+Error occurred at line 18: Invalid destination address!
+Error occurred at line 19: Invalid Operand that should be label !
+Error occurred at line 20: Invalid Operand that should be label !
+Warning occurred at line 29: found an entry instruction with a symbol declared to it. new symbol got deleted.
+Error occurred at line 29: Invalid label name: LENGTH , 
+Error occurred at line 30: Found an extern instruction without any label!
+Warning occurred at line 31: found an extern instruction with a symbol declared to it. new symbol got deleted.
+Error occurred at line 31: Invalid label name: W , aaff
+Error occurred at line 32: Invalid label name: 5AIN
+Error occurred at line 42: Invalid definition of secondOperand name!
+Error occurred at line 47: valid string must end with "
+Error occurred at line 49: Found multiple definition of the same label
+Error occurred at line 50: Found invalid text after string
+Error occurred at line 53: Invalid command: 'LENGTH'
+Error occurred at line 57: number '-6-9' invalid in .data instruction! 
+Error occurred at line 60: between two commas must be number
+Error occurred at line 64: between two commas must be number
+Error occurred at line 65: Missing string in .string instruction!
+Error occurred at line 66: Missing numbers in .data instruction
+Error occurred at line 67: number '+-9' invalid in .data instruction! 
+Error occurred at line 68: number '9+' invalid in .data instruction! 
+Error occurred at line 69: number '9-' invalid in .data instruction! 
+Error occurred at line 73: Invalid command: 'hello'
+Error occurred at line 74: Found multiple definition of the same label
+Error occurred at line 78: Invalid definition of firstOperands name!
+Error occurred at line 79: Invalid definition of firstOperands name!
+Error occurred at line 80: Invalid destination address!
+Error occurred at line 81: Invalid definition of firstOperands name!
+Error occurred at line 82: Invalid definition of firstOperands name!
+Error occurred at line 86: Invalid Operand that should be label !
+Error occurred at line 87: Invalid Operand that should be label !
+Error occurred at line 95: Invalid definition of secondOperand name!
+Error occurred at line 96: Invalid definition of firstOperands name!
+Error occurred at line 97: Invalid definition of firstOperands name!
+Error occurred at line 98: Invalid label name!
+Error occurred at line 99: Invalid definition of firstOperands name!
+Error occurred at line 100: Invalid Operand that should be label !
+Error occurred at line 101: Invalid Operand that should be label !
+Error occurred at line 105: Invalid command: 'mo'
+Error occurred at line 106: Invalid command: 'st'
+Error occurred at line 107: Invalid command: 'cm1'
+Error occurred at line 108: Invalid command: 'ret'
+Error occurred at line 109: Invalid command: 'ads'
+Error occurred at line 113: Invalid definition of firstOperands name!
+Error occurred at line 114: Invalid definition of secondOperand name!
+Error occurred at line 115: Invalid definition of secondOperand name!
+Error occurred at line 116: illegal commas found right after the command name
+Error occurred at line 117: Missing operand
+Error occurred at line 118: Invalid definition of a Operand!
+Error occurred at line 119: for this command no Operand allowed or any characters
+Error occurred at line 120: for this command no Operand allowed or any characters
+Error occurred at line 121: for this command no Operand allowed or any characters
+Error occurred at line 125: Invalid definition of secondOperand name!
+Error occurred at line 126: Invalid definition of secondOperand name!
+Error occurred at line 127: illegal commas found right after the command name
+Error occurred at line 128: for this command no Operand allowed or any characters
+Error occurred at line 129: Invalid definition of secondOperand name!
+Error occurred at line 136: Invalid definition of secondOperand name!
+The labels is not declared in the code: 'a','a','K1','L3','abc','abc','GG','r10','N','1','1','N','L','N','abc','r9','K1'
+Warning occurred at the process, symbols we didn't use: 'LENGTH','STR','END'
+First iteration on file: testError3.am failed!
+

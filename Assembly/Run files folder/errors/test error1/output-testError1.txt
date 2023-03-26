@@ -1,0 +1,55 @@
+
+Execution of PreAssembler on the file: testError1.as
+we have successfully completed the process PreAssembler on file: testError1.as
+Started first iteration on the file: testError1...
+Error occurred at line 2: Invalid destination address!
+Error occurred at line 3: Invalid destination address!
+Error occurred at line 4: Invalid destination address!
+Error occurred at line 5: Invalid destination address!
+Error occurred at line 6: Invalid destination address!
+Error occurred at line 7: Invalid source address!
+Error occurred at line 8: Invalid source address!
+Error occurred at line 9: Invalid destination address!
+Error occurred at line 10: Invalid destination address!
+Error occurred at line 11: Invalid Operand that should be label !
+Error occurred at line 12: Invalid Operand that should be label !
+Error occurred at line 13: Invalid command: 'get'
+Error occurred at line 14: Invalid Operand that should be label !
+Error occurred at line 17: Invalid definition of firstOperands name!
+Error occurred at line 18: Invalid destination address!
+Error occurred at line 19: Invalid Operand that should be label !
+Error occurred at line 20: Invalid definition of secondOperand name!
+Error occurred at line 21: Invalid destination address!
+Error occurred at line 22: Invalid Operand that should be label !
+Error occurred at line 25: Invalid definition of a Operand!
+Error occurred at line 26: Invalid definition of a Operand!
+Error occurred at line 27: Invalid definition of a Operand!
+Error occurred at line 28: Invalid definition of a Operand!
+Error occurred at line 29: Invalid Operand that should be label !
+Error occurred at line 30: Invalid Operand that should be label !
+Error occurred at line 31: Invalid command: 'get'
+Error occurred at line 32: Invalid Operand that should be label !
+Error occurred at line 35: Found an empty label declaration
+Error occurred at line 38: Invalid definition of firstOperands name!
+Error occurred at line 39: Invalid definition of secondOperand name!
+Error occurred at line 42: Missing numbers in .data instruction
+Error occurred at line 45: Invalid ',' at the beginning of .data instruction
+Error occurred at line 48: valid string must end with "
+Error occurred at line 49: only white spaces its not allow in string instruction
+Error occurred at line 50: Missing numbers in .data instruction
+Error occurred at line 51: Missing string in .string instruction!
+Error occurred at line 54: Invalid label name: _!@+
+Error occurred at line 57: Invalid command: 'hlt'
+Error occurred at line 58: Found multiple definition of the same label
+Error occurred at line 62: Found multiple definition of the same label
+Error occurred at line 63: Invalid label name: &^%$
+Error occurred at line 64: Invalid label name: *&^%$#
+Error occurred at line 65: Invalid label name: #@$@#@
+Warning occurred at line 67: found an extern instruction with a symbol declared to it. new symbol got deleted.
+Error occurred at line 70: Found an extern instruction without any label!
+Error occurred at line 71: Found an entry instruction without any label!
+no declaration on this label
+The labels is not declared in the code: 'P','Q'
+Warning occurred at the process, symbols we didn't use: 'c','G','hello','label'
+First iteration on file: testError1.am failed!
+

@@ -1,0 +1,191 @@
+Execution of PreAssembler on the file: testError2.as
+we have successfully completed the process PreAssembler on file: testError2.as
+Started first iteration on the file: testError2...
+Error occurred at line 5: Invalid label name: 1myLabel
+Error occurred at line 6: Invalid label name: thisIsAveryVeryVeryVeryVeryLongLabel
+Error occurred at line 7: Invalid command: 'this'
+Error occurred at line 8: Invalid command: 'thisLabelIsErroneous'
+Error occurred at line 9: Found multiple definition of the same label
+Error occurred at line 12: Invalid ',' at the end of .data instruction
+Error occurred at line 13: Invalid ',' at the end of .data instruction
+Error occurred at line 14: Invalid ',' at the beginning of .data instruction
+Error occurred at line 15: between two commas must be number
+Error occurred at line 16: Invalid ',' at the end of .data instruction
+Error occurred at line 17: Invalid command: 'mov,'
+Error occurred at line 18: Invalid definition of secondOperand name!
+Error occurred at line 19: illegal commas found right after the command name
+Error occurred at line 20: illegal commas found right after the command name
+Error occurred at line 21: illegal commas found right after the command name
+Error occurred at line 22: illegal commas found right after the command name
+Error occurred at line 23: Invalid command: 'inc,'
+Error occurred at line 27: number '75553' invalid in .data instruction! 
+Error occurred at line 31: Missing numbers in .data instruction
+Error occurred at line 32: number 'lost' invalid in .data instruction! 
+Error occurred at line 33: number '--433' invalid in .data instruction! 
+Error occurred at line 34: number '++875' invalid in .data instruction! 
+Error occurred at line 36: number '4+2' invalid in .data instruction! 
+Error occurred at line 37: number 'x' invalid in .data instruction! 
+Error occurred at line 38: number 'a' invalid in .data instruction! 
+Error occurred at line 39: number '6.5' invalid in .data instruction! 
+Error occurred at line 43: only white spaces its not allow in string instruction
+Error occurred at line 44: valid string must start with "
+Error occurred at line 45: valid string must start with "
+Error occurred at line 46: valid string must end with "
+Error occurred at line 47: valid string must start with "
+Error occurred at line 48: valid string must start with "
+Error occurred at line 49: valid string must end with "
+Error occurred at line 51: number '943.data' invalid in .data instruction! 
+Error occurred at line 52: Found invalid text after string
+Error occurred at line 53: Invalid label name: Hello World
+Error occurred at line 54: Invalid label name: Goodbye Earth
+Error occurred at line 55: Invalid definition of secondOperand name!
+Error occurred at line 56: Invalid definition of secondOperand name!
+Error occurred at line 57: Invalid definition of secondOperand name!
+Error occurred at line 58: Invalid definition of secondOperand name!
+Error occurred at line 59: Invalid definition of secondOperand name!
+Error occurred at line 60: Invalid definition of secondOperand name!
+Error occurred at line 61: Invalid definition of secondOperand name!
+Error occurred at line 62: Invalid definition of secondOperand name!
+Error occurred at line 63: Invalid definition of secondOperand name!
+Error occurred at line 64: Invalid definition of secondOperand name!
+Error occurred at line 65: Invalid definition of a Operand!
+Error occurred at line 66: Invalid definition of a Operand!
+Error occurred at line 67: Invalid definition of a Operand!
+Error occurred at line 68: Invalid definition of a Operand!
+Error occurred at line 69: Invalid definition of a Operand!
+Error occurred at line 70: Invalid definition of a Operand!
+Error occurred at line 71: Invalid Operand that should be label !
+Error occurred at line 72: Invalid Operand that should be label !
+Error occurred at line 73: Invalid Operand that should be label !
+Error occurred at line 74: Invalid Operand that should be label !
+Error occurred at line 75: Invalid Operand that should be label !
+Error occurred at line 76: Invalid Operand that should be label !
+Error occurred at line 77: Invalid definition of a Operand!
+Error occurred at line 78: Invalid definition of a Operand!
+Error occurred at line 79: Invalid definition of a Operand!
+Error occurred at line 80: Invalid definition of a Operand!
+Error occurred at line 81: Invalid command: 'customLabel1:.data'
+Error occurred at line 82: Invalid command: 'customLabel2:.string'
+Error occurred at line 83: Invalid command: 'customLabel3:.extern'
+Error occurred at line 84: Invalid command: 'customLabel4:.entry'
+Error occurred at line 85: Invalid command: 'customLabel5:mov'
+Error occurred at line 86: Invalid command: 'customLabel6:mov'
+Error occurred at line 87: Invalid command: 'customLabel7:cmp'
+Error occurred at line 88: Invalid command: 'customLabel8:cmp'
+Error occurred at line 89: Invalid command: 'customLabel9:add'
+Error occurred at line 90: Invalid command: 'customLabel10:add'
+Error occurred at line 91: Invalid command: 'customLabel11:sub'
+Error occurred at line 92: Invalid command: 'customLabel12:sub'
+Error occurred at line 93: Invalid command: 'customLabel13:lea'
+Error occurred at line 94: Invalid command: 'customLabel14:lea'
+Error occurred at line 95: Invalid command: 'customLabel15:clr'
+Error occurred at line 96: Invalid command: 'customLabel16:clr'
+Error occurred at line 97: Invalid command: 'customLabel17:inc'
+Error occurred at line 98: Invalid command: 'customLabel18:inc'
+Error occurred at line 99: Invalid command: 'customLabel19:dec'
+Error occurred at line 100: Invalid command: 'customLabel20:dec'
+Error occurred at line 101: Invalid command: 'customLabel21:jmp'
+Error occurred at line 102: Invalid command: 'customLabel22:jmp'
+Error occurred at line 103: Invalid command: 'customLabel23:bne'
+Error occurred at line 104: Invalid command: 'customLabel24:bne'
+Error occurred at line 105: Invalid command: 'customLabel25:jsr'
+Error occurred at line 106: Invalid command: 'customLabel26:jsr'
+Error occurred at line 107: Invalid command: 'customLabel27:red'
+Error occurred at line 108: Invalid command: 'customLabel28:red'
+Error occurred at line 109: Invalid command: 'customLabel29:prn'
+Error occurred at line 110: Invalid command: 'customLabel30:prn'
+Error occurred at line 112: Missing numbers in .data instruction
+Error occurred at line 113: only white spaces its not allow in string instruction
+Error occurred at line 114: the label cannot be empty
+Error occurred at line 115: Found an entry instruction without any label!
+Error occurred at line 116: Invalid definition of secondOperand name!
+Error occurred at line 117: Invalid definition of secondOperand name!
+Error occurred at line 118: Invalid definition of secondOperand name!
+Error occurred at line 119: Invalid definition of secondOperand name!
+Error occurred at line 120: Invalid definition of secondOperand name!
+Error occurred at line 121: Invalid definition of a Operand!
+Error occurred at line 122: Invalid definition of a Operand!
+Error occurred at line 123: Invalid definition of a Operand!
+Error occurred at line 124: Invalid Operand that should be label !
+Error occurred at line 125: Invalid Operand that should be label !
+Error occurred at line 126: Invalid Operand that should be label !
+Error occurred at line 127: Invalid definition of a Operand!
+Error occurred at line 128: Invalid definition of a Operand!
+Error occurred at line 129: Invalid command: 'someLabel31:.data'
+Error occurred at line 130: Invalid command: 'someLabel32:.string'
+Error occurred at line 131: Invalid command: 'someLabel33:.extern'
+Error occurred at line 132: Invalid command: 'someLabel34:.entry'
+Error occurred at line 133: Invalid command: 'someLabel35:mov'
+Error occurred at line 134: Invalid command: 'someLabel36:cmp'
+Error occurred at line 135: Invalid command: 'someLabel37:add'
+Error occurred at line 136: Invalid command: 'someLabel38:sub'
+Error occurred at line 137: Invalid command: 'someLabel39:lea'
+Error occurred at line 138: Invalid command: 'someLabel40:clr'
+Error occurred at line 139: Invalid command: 'someLabel41:inc'
+Error occurred at line 140: Invalid command: 'someLabel42:dec'
+Error occurred at line 141: Invalid command: 'someLabel43:jmp'
+Error occurred at line 142: Invalid command: 'someLabel44:bne'
+Error occurred at line 143: Invalid command: 'someLabel45:jsr'
+Error occurred at line 144: Invalid command: 'someLabel46:red'
+Error occurred at line 145: Invalid command: 'someLabel47:prn'
+Error occurred at line 147: Invalid command: 'COOK'
+Error occurred at line 148: found an illegal instruction
+Error occurred at line 149: found an illegal instruction
+Error occurred at line 151: Invalid definition of firstOperands name!
+Error occurred at line 152: Invalid definition of firstOperands name!
+Error occurred at line 153: Invalid definition of secondOperand name!
+Error occurred at line 154: Invalid definition of firstOperands name!
+Error occurred at line 155: Invalid destination address!
+Error occurred at line 156: Invalid definition of secondOperand name!
+Error occurred at line 157: Invalid definition of firstOperands name!
+Error occurred at line 158: Invalid destination address!
+Error occurred at line 159: Invalid definition of firstOperands name!
+Error occurred at line 160: Invalid definition of firstOperands name!
+Error occurred at line 161: Invalid definition of firstOperands name!
+Error occurred at line 162: Invalid destination address!
+Error occurred at line 163: Invalid definition of secondOperand name!
+Error occurred at line 164: Invalid definition of firstOperands name!
+Error occurred at line 165: Invalid definition of firstOperands name!
+Error occurred at line 166: Invalid definition of firstOperands name!
+Error occurred at line 167: Invalid definition of firstOperands name!
+Error occurred at line 168: Invalid destination address!
+Error occurred at line 169: Invalid definition of secondOperand name!
+Error occurred at line 170: Invalid source address!
+Error occurred at line 171: Invalid source address!
+Error occurred at line 172: Invalid definition of secondOperand name!
+Error occurred at line 173: Invalid source address!
+Error occurred at line 174: Invalid definition of firstOperands name!
+Error occurred at line 175: Invalid definition of firstOperands name!
+Error occurred at line 176: Invalid definition of firstOperands name!
+Error occurred at line 177: Invalid definition of firstOperands name!
+Error occurred at line 178: Invalid source address!
+Error occurred at line 179: Invalid definition of secondOperand name!
+Error occurred at line 180: Invalid source address!
+Error occurred at line 181: Invalid source address!
+Error occurred at line 182: Invalid destination address!
+Error occurred at line 183: Invalid definition of secondOperand name!
+Error occurred at line 184: Invalid destination address!
+Error occurred at line 185: Invalid definition of a Operand!
+Error occurred at line 186: Invalid destination address!
+Error occurred at line 187: Invalid definition of a Operand!
+Error occurred at line 188: Invalid destination address!
+Error occurred at line 189: Invalid definition of a Operand!
+Error occurred at line 190: Invalid destination address!
+Error occurred at line 191: Invalid definition of a Operand!
+Error occurred at line 192: Invalid Operand that should be label !
+Error occurred at line 193: Invalid Operand that should be label !
+Error occurred at line 194: Invalid Operand that should be label !
+Error occurred at line 195: Invalid Operand that should be label !
+Error occurred at line 196: Invalid definition of a Operand!
+Error occurred at line 197: for this command no Operand allowed or any characters
+Error occurred at line 198: for this command no Operand allowed or any characters
+Error occurred at line 199: for this command no Operand allowed or any characters
+Error occurred at line 200: for this command no Operand allowed or any characters
+Error occurred at line 201: for this command no Operand allowed or any characters
+Error occurred at line 202: for this command no Operand allowed or any characters
+Error occurred at line 203: for this command no Operand allowed or any characters
+Error occurred at line 204: for this command no Operand allowed or any characters
+The labels is not declared in the code: 'K','A','A','A','A','A','A','HAHAHA','HAHAHA','A','A','A','HAHAHA','someLabel47','someLabel47','someLabel47','someLabel47','someLabel47','someLabel47','someLabel47'
+Warning occurred at the process, symbols we didn't use: 'K2','K1','myArray5','myArray4','myArray3','myArray2','myArray','myLabel'
+First iteration on file: testError2.am failed!
+
